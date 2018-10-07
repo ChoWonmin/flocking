@@ -1,0 +1,10 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
+#renderer {
+  width: 700px;
+  height: 700px;
+  border: solid #cccccc 1px;
+  background-color: #ccc; }
+
+/*# sourceMappingURL=style.css.map */
