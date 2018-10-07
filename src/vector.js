@@ -96,7 +96,6 @@ Vector.prototype = {
         return this;
     },
     limit: function(max) {
-
         const mSq = this.magSq();
         if (mSq > max * max) {
             this.div(Math.sqrt(mSq)) //normalize it
